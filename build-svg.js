@@ -30,7 +30,7 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 
 // Today's weather
 weather.setLang('en')
-weather.setCoordinate(37.576157, 126.813110)
+weather.setCoordinate(37.5514250, 126.988000)
 weather.setUnits('imperial')
 weather.setAPPID(WEATHER_API_KEY)
 
