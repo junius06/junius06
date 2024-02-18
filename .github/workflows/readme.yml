@@ -8,7 +8,7 @@ on:
   # 마스터 Branch의 모든 push 실행
   push:
     branches:
-    - master
+    - main
 
 jobs:
   readme:
@@ -19,7 +19,7 @@ jobs:
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
-          node-version: 14
+          node-version: 20
       - run: npm install
 
       - name: Generate readme

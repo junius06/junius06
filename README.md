@@ -1,4 +1,4 @@
-![chat_svg](https://github.com/junius06/junius06/blob/master/chat.svg)
+![chat_svg](https://github.com/junius06/junius06/blob/main/chat.svg)
 
 <!-- Top Language -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junius06&layout=compact&theme=github) -->
