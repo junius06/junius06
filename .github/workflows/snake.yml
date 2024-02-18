@@ -12,7 +12,7 @@ on:
   # 마스터 Branch의 모든 push 실행
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
