@@ -254,7 +254,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="335" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">제 GitHub에 방문해주셔서 감사합니다.</text>
-    <text x="15" y="50">오늘 서울의 날씨는 6° C <tspan class="emoji">☁️</tspan> 입니다.</text>
+    <text x="15" y="50">오늘 서울의 날씨는 8° C <tspan class="emoji">🌦</tspan> 입니다.</text>
   </g>
 
   <!-- typing 3 -->
@@ -279,6 +279,6 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="385" height="66.13" rx="18.0355" class="bubble" />
 		<text x="15" y="27">오늘 하루 좋은 일만 가득하시길 기원합니다 !</text>
-    <text x="15" y="50">Have a great Saturday! <tspan class="emoji">👋</tspan></text>
+    <text x="15" y="50">Have a great Sunday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
