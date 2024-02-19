@@ -228,8 +228,8 @@
 
   <!-- Hi, I'm JOOHEE -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="225" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, Welcome to my github👋. I'm Joohee.</text>
+    <rect width="360" height="42" rx="18.0355" />
+    <text x="15" y="27">Welcome to my github👋. I'm Joohee.</text>
   </g>
 
   <!-- typing 2 -->
@@ -277,8 +277,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="385" height="66.13" rx="18.0355" class="bubble" />
-		<text x="15" y="27">My Github has some code for any skills I study. I'm trying to be a great DevOps! </text>
-    <text x="15" y="50">Take a look at my github, and have a great {todayDay}! <tspan class="emoji">👋</tspan></text>
+    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
+		<text x="15" y="27">My Github has some code for any skills I study.</text>
+    <text x="15" y="50">Take a look at my github, and have a great {todayDay}!<tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
