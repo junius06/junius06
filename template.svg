@@ -253,7 +253,7 @@
 
   <!-- From Seoul... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="315" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="310" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm living in Seoul, South Korea.</text>
     <text x="15" y="50">Today weather is {degC}° C <tspan class="emoji">{weatherEmoji}</tspan> in Seoul.</text>
   </g>
@@ -279,7 +279,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="475" height="66.1302" rx="18.0355" class="bubble" />
 		<text x="15" y="27">My Github has some code for any skills I study.</text>
     <text x="15" y="50">Take a look at my github, and have a great {todayDay}!<tspan class="emoji">👋</tspan></text>
   </g>
