@@ -1,8 +1,8 @@
-name: Update readme
+name: Update Overview
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
   # 마스터 Branch의 모든 push 실행
