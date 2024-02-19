@@ -254,11 +254,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="335" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm living in Seoul, South Korea.</text>
-<<<<<<< HEAD
     <text x="15" y="50">Today weather is 9° C <tspan class="emoji">🌦</tspan> in Seoul.</text>
-=======
-    <text x="15" y="50">Today weather is {degC}° C <tspan class="emoji">{weatherEmoji}</tspan> in Seoul. </text> <!-- 오늘 서울의 날씨는 9° C <tspan class="emoji">🌦</tspan> 입니다. -->
->>>>>>> f4defde (Edit overview greeting)
   </g>
 
   <!-- typing 3 -->
@@ -282,12 +278,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="385" height="66.13" rx="18.0355" class="bubble" />
-<<<<<<< HEAD
 		<text x="15" y="27">My Github has some code for any skills I study. I'm trying to be a great DevOps! </text>
     <text x="15" y="50">Take a look at my github, and have a great Monday! <tspan class="emoji">👋</tspan></text>
-=======
-		<text x="15" y="27">My Github has some code for any skills I study. I'm trying to be a great DevOps!</text>
-    <text x="15" y="50">Take a look at my github, and have a great {todayDay}! <tspan class="emoji">👋</tspan></text>
->>>>>>> f4defde (Edit overview greeting)
   </g>
 </svg>
