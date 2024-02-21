@@ -1,7 +1,3 @@
-<div align="center">
-
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=a3d278&text=Kunwoo%20Shin's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
-
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div style="text-align: center;">
@@ -73,15 +69,16 @@
 
 ### Containers
 
+<!-- 
 <div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-</div>
+</div> -->
 
-<!-- <div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="57" height="57" />
-</div> -->
+</div>
 
 <br>
 
