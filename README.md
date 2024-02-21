@@ -1,4 +1,14 @@
+<!-- chat window -->
 ![chat_svg](https://github.com/junius06/junius06/blob/main/chat.svg)
+
+<!-- Skill Stacks -->
+## Skills
+### Containers
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="57" height="57" />
+</div style="text-align: center;">
+<br>
 
 <!-- Top Language -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junius06&layout=compact&theme=github) -->
