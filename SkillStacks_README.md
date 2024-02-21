@@ -7,19 +7,11 @@
 
 ## ⚒ Skill Stacks ⚒
 
+
 ### Languages
 
-<!-- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB ?style=flat-square&logo=Python&logoColor=white"/> -->
-
 <!-- <div>
-<img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-</div> -->
-
-<!-- <div>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB ?style=flat-square&logo=Python&logoColor=white"/> 
 </div> -->
 
 <div style="display: flex; align-items: flex-start;">
@@ -32,9 +24,13 @@
 <br>
 
 ### Server/Network
+
 <dev>
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="57" height="57" />
 </dev>
+
+<br>
+
 
 ### Databases
 
@@ -43,9 +39,12 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> 
 </div>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" /></div>
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
+</div>
 
 <br>
+
 
 ### Containers
 <!-- 
@@ -61,11 +60,15 @@
 
 <br>
 
+
 ### Cloud
 
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
 </div>
+
+<br>
+
 
 ### CICD
 
@@ -73,3 +76,5 @@
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </dev>
+
+<br>
