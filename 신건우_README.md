@@ -1,7 +1,3 @@
-<div align="center">
-
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=a3d278&text=Kunwoo%20Shin's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
-
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div style="text-align: center;">
