@@ -30,6 +30,7 @@
   </a>
 </p> -->
 
+<!-- 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> DevOps Engineer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요. </div> 
@@ -64,4 +65,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junius06&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
+ -->
