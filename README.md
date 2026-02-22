@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junius06)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junius06&theme=transparent&show_icons=true)
 
 <!-- Skill Stacks -->
 ## Skill Stacks
@@ -13,7 +13,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/junius06/junius06/output/github-contribution-grid-snake.svg">
 </picture>
 
-# 링크가 엑박뜸
+<!-- 링크가 엑박뜸 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junius06&layout=compact&theme=github)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junius06&theme=github)](https://github.com/anuraghazra/github-readme-stats) -->
 
