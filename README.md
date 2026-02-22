@@ -1,5 +1,4 @@
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=junius06)](https://github.com/junius06) -->
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=본인아이디&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junius06&show_icons=true&theme=radical)
 
 <!-- Skill Stacks -->
 ## Skill Stacks
