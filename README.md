@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junius06&theme=transparent&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=junius06)](https://github.com/junius06)
 
 <!-- Skill Stacks -->
 ## Skill Stacks
