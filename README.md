@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=junius06)](https://github.com/junius06)
+<img src="https://github-readme-stats.vercel.app/api?username=junius06" />
 
 <!-- Skill Stacks -->
 ## Skill Stacks
