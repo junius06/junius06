@@ -5,7 +5,7 @@
 </p>
 
 <!-- chat window -->
-![chat_svg](https://github.com/junius06/junius06/blob/main/chat.svg)
+<!-- ![chat_svg](https://github.com/junius06/junius06/blob/main/chat.svg) -->
 
 <!-- Skill Stacks -->
 ## Skill Stacks
